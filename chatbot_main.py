@@ -53,7 +53,7 @@ def callback():
 
 @handler.add(FollowEvent)
 def handle_join(event) :
-    channel_handle_fp = "./channel_handle.json"
+    channel_handle_fp = "./data/channel_handle.json"
     num_user_join_text = 2
     user_id = event.source.sender_id
 

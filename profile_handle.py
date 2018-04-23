@@ -4,7 +4,7 @@ from linebot.models import TextSendMessage, ImageSendMessage
 
 
 """ Parameters """
-project_response_fp = "./profile_handle.json"
+project_response_fp = "./data//profile_handle.json"
 num_project = 6
 num_intro = 7
 
