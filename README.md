@@ -16,6 +16,7 @@ It's basically a chatbot implemented on [line-bot-sdk-python](https://github.com
 Please check the Line QR Code to access the chatbot !
 <br>
 [Chatbot OR Code](https://drive.google.com/file/d/1RUoWZga1-f_E_2VDGN5W0LPyUoCwU2Pf/view?usp=sharing)
+<br>
 * **Method 2**
 <br>You may access my chatbot through Channel ID
 <br>Channel ID: 1575418123
