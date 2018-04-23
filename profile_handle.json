@@ -1,0 +1,35 @@
+{
+  "project_response_none":
+    "Sorry! You may send the message I don't clearly know. You can try again and follow the hint above ~",
+  "project_response_0":
+    "Hello, thanks for your curiosity in the projects I've ever been involved.\n\nHere is my Github Repos: https://github.com/JackInTaiwan\n\nHere I provide a list:\n[1] APP Development–Simple Chatroom\n[2] Vpython – Bacteria Stimulation\n[3] APPAR APP Development Intern\n[4] Schedule Recommending System\n[5] Bio-Engineering Project – Dr.Doctor\n[6] Dr. Straydogs Platform\n\nPlease type 'project+number' to get more information!\ne.g. project3",
+  "project_response_1":
+    "[APP Development – Simple Chatroom]\n        Building up one server by Django and Mysql, and we developed our front-end through Android Studio (Java). This app is designed to achieve the basic functions as well as other normal chatroom apps. The functionsinclude membership, logging in, logging out, chatting, manipulating historical record, deleting the accounts which are out of use for long, and so on.",
+  "project_response_2":
+    "[Vpython – Bacteria Stimulation]\n        Because the culture of bacteria literally costs a lot, we want to develop one stimulation system to speed up the process of culture, and also it may prevent users to have wrong parameters of surrounding conditions. Based on the knowledge of Biology, we stimulate the circumstances of the growth of bacteria through V-python library. The parameters of thesimulation include growth, foraging, competing, limitation of growth, density of bacteria, and so on.",
+  "project_response_3":
+    "[APPAR APP Development Intern]\n        I’m responsible for the front-end development by using React-Native. Sorry for that I cannot push the code in public due to the contract.",
+  "project_response_4":
+    "[Schedule Recommending System]\n        By using some machine learning and NLP techniques, I want to design a system which would recommend users the future schedule based on the previous record.",
+  "project_response_5":
+    "[Bio-Engineering Project – Dr.Doctor]\n        Nowadays, human are so hustling that they don't have enough time to see a doctor directly even though they feel illness. Plus, training a professional doctor is quite time-consuming and the clinic's encounter may be confronted with the same time-consuming tasks. Therefore, we try to build a platform to solve the kind of problems while reducing the cost of time and labors. This a platform (website) aiming to be an assistant for doctors embedded with DL model which is designed to achieve the NLP work.",
+  "project_response_6":
+    "[Dr. Straydogs Platform]\n        Dr. Straydogs is a team born to solve and release the situation of stray dogs in Taiwan.\n        One of our goals is to design and build one platform which comprehensively provides education services and matching services. People can be matched with appropriate stray dogs through the matching algorithm and the expertise of our professional dog trainer. The matching algorithm requires Machine Learning and a great amount of data which we are working on. Sorry for that I cannot push the code in public due to the contract.",
+
+  "intro_response_1":
+    {"type":"img", "sleep": 0, "url": "https://simg314.magcasa.com/content_images/2016/02/08/235551/1454870738_7182.jpg"},
+  "intro_response_2":
+    {"type":"text", "sleep": 0, "text": "This is me... Yeah.. I'm a dog, actually."},
+  "intro_response_3":
+    {"type":"img", "sleep": 2, "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/15032916_1164468433644263_3181302603809776233_n.jpg?_nc_cat=0&oh=30fe9b4c2fbb1d96f2ae15be8e8d650e&oe=5B606B25"},
+  "intro_response_4":
+    {"type":"text", "sleep": 0, "text": "Come on! Don't be silly. Just kidding, here I come!"},
+  "intro_response_5":
+    {"type":"text", "sleep": 2, "text": "Maybe you're interested in my brief self-profile (please be so)!\nIt's shown below:"},
+  "intro_response_6":
+    {"type":"text", "sleep": 1, "text": "Oops! I'm sorry.\nI'm working on extracting it... from my messy drawer..."},
+  "intro_response_7":
+    {"type":"text", "sleep": 2, "text": "Here it comes!\n [School] National Taiwan University\n [Department] Electric Engineering\n [Hobby] Litature/Movie/Music/Law/Psychology/Coding/...... (Too many to name)"}
+
+
+}
