@@ -4,7 +4,7 @@ import json
 from flask import Flask, request, abort
 from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
-from linebot.models import MessageEvent, FollowEvent, TextMessage, TextSendMessage
+from linebot.models import MessageEvent, FollowEvent, TextMessage, TextSendMessage, JoinEvent
 
 
 
@@ -123,6 +123,10 @@ def text_handle(line_bot_api, user_id, event, text) :
                 to=user_id,
                 messages=response
             )
+
+@handler.add(JoinEvent)
+def handle_join(event):
+    print("Join Event =====>", event.source)
 
 
 

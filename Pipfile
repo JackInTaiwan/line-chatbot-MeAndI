@@ -1,0 +1,14 @@
+[[source]]
+verify_ssl = true
+url = "https://pypi.org/simple"
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+flask = "*"
+future = "*"
+requests = "*"
+
+[requires]
+python_version = "3.5"
