@@ -9,7 +9,7 @@ from linebot.models import MessageEvent, FollowEvent, TextMessage, TextSendMessa
 
 
 """ Parameters """
-CHANNEL_ACCESS_TOKEN = "bsNaIC3zHJ3p+1AuBxCkDLwwXmL+GSXej5qxLgHUbimFBjqrmGBvCzw39cNe6bxYf4VJNHcxkhmBsKef4H4/wNhzPhMlhiOj709zbur0WjKCjFJgf3MLjsy5bRDo8c4V8pAs28jHoLDDLjSIP5rzvQdB04t89/1O/w1cDnyilFU="
+CHANNEL_ACCESS_TOKEN = "uamExc7q7JmUA6JYrGQN+++nVt16EtV7dxs/JoGFo0oFrTHFYerlQxyx+avR7wIAd9AXK431eE7Gs3AfS4yQp573YGXc5U+Llq4g0NKZq5BDL1FUJpvJ/9SD5lcUygy8GwyT9nqUiYTQMw5XG2IatgdB04t89/1O/w1cDnyilFU="
 CHANNEL_SECRET = "db71e5f4bcfec8e3b0a2f75df3dd9755"
 
 
