@@ -1,14 +1,24 @@
 [[source]]
-verify_ssl = true
-url = "https://pypi.org/simple"
-name = "pypi"
 
-[dev-packages]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
 
 [packages]
-flask = "*"
-future = "*"
+
+gunicorn = "*"
 requests = "*"
+line-bot-sdk = "*"
+click = "*"
+Flask = "*"
+Flask-SQLAlchemy = "*"
+Flask-Migrate = "*"
+itsdangerous = "*"
+Jinja2 = "*"
+MarkupSafe = "*"
+Werkzeug = "*"
+psycopg2 = "*"
 
 [requires]
-python_version = "3.7.0"
+
+python_version = "3.5.2"
