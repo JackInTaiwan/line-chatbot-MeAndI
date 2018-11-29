@@ -37,7 +37,7 @@ def callback():
 
     ### get request body as text
     body = request.get_data(as_text=False)
-    echo_console("RequestBody", body)
+    echo_console("RequestBody", str(body))
 
     app.logger.info("Request body: " + body)
 
